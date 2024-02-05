@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-	System.out.print("HOLA - Juan");
-        System.out.print("HOLA - Alex");
-
+	System.out.print("Hola Juan!");
+        System.out.print("Hola Alex!");
+	System.out.print("Hola Uzziel!");
+	
     }
 }
