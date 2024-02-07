@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 	System.out.print("Hola Juan!");
-        System.out.print("Hola Alex!");
+    System.out.print("Hola Alex!");
 	System.out.print("Hola Uzziel!");
 	System.out.print("Hola Adan");
 	System.out.print("Hola Barragan!");
